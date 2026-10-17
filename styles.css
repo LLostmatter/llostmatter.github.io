@@ -1,0 +1,15 @@
+html {
+    color: lime;
+    font-family: VGA;
+    font-size: 25px;
+}
+
+body {
+    background-color: black;
+}
+
+
+@font-face {
+    font-family: "VGA";
+    src: url('res/Flexi_IBM_VGA_True.ttf');
+}
