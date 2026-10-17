@@ -26,7 +26,7 @@ async function startUp(mainText, discordText, text) {
     await wait(750);
     text = "... There's nothing here, yet";
     updateText(mainText, text);
-    discordText.textContent = "If you would like, shoot me a DM on discord! My username is 1lostmatter";
+    discordText.textContent = "If you would like, shoot me a DM on Discord! My username is 1lostmatter";
 }
 
 function updateText(mainText, text) {
